@@ -1,0 +1,34 @@
+{
+	"movies": [
+		{
+			"id" : 1,
+			"title" : "Orphan: First Kill",
+			"genre" : ["Horror", "Thriller"],
+			"poster_url": "https://image.tmdb.org/t/p/w500/wSqAXL1EHVJ3MOnJzMhUngc8gFs.jpg"
+		},
+		{
+			"id" : 2,
+			"title" : "Fall",
+			"genre" : ["Thriller"],
+			"poster_url": "https://image.tmdb.org/t/p/w500/spCAxD99U1A6jsiePFoqdEcY0dG.jpg"
+		},
+		{
+			"id" : 3,
+			"title" : "Bullet Train",
+			"genre" : ["Action", "Comedy", "Thriller"],
+			"poster_url": "https://image.tmdb.org/t/p/w500/tVxDe01Zy3kZqaZRNiXFGDICdZk.jpg"
+		},
+		{
+			"id" : 4,
+			"title" : "Pinocchio",
+			"genre" : ["Fantasy", "Adventure", "Family"],
+			"poster_url": "https://image.tmdb.org/t/p/w500/g8sclIV4gj1TZqUpnL82hKOTK3B.jpg"
+		},
+		{
+			"id" : 5,
+			"title" : "Beast",
+			"genre" : ["Adventure", "Drama" ,"Horror"],
+			"poster_url": "https://image.tmdb.org/t/p/w500/iRV0IB5xQeOymuGGUBarTecQVAl.jpg"
+		}
+	]
+}
